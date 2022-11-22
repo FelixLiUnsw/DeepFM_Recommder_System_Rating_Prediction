@@ -1,5 +1,5 @@
 #########################################################################################
-#  Author: Jiaxuan Li, zID: z5086369  Tel: +61 434947752 Email: z5086369@ad.unsw.edu.au #
+#  Author: Jiaxuan Li, zID:           Tel:               Email:                         #
 #  If you have any question about this program, please contact me                       #   
 #  This NNs method needs at least 20 epochs to train to have a higher accuarcy          #
 #  DeepFM is a progressive version for Wide&Deep model by replacing Fully Connect layer #
